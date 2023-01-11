@@ -1,0 +1,7 @@
+.welcome-section{
+    background-image: url('../../assests/welcome-banner.jpg');
+    height: 900px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
